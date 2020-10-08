@@ -27,6 +27,7 @@ def output_array(array)
   end
 end
 
+#This method should loop over the provided array, convert each element to a string, and return the new array of strings.
 def return_string_array(array)
   count = 0
   while count < array.length do
